@@ -1,0 +1,28 @@
+D:\Users\sojoyenjoy\AppData\Local\Temporary Projects\Resto\bin\Debug\Resto.exe
+D:\Users\sojoyenjoy\AppData\Local\Temporary Projects\Resto\bin\Debug\Resto.pdb
+D:\Users\sojoyenjoy\AppData\Local\Temporary Projects\Resto\bin\Debug\Resto.xml
+D:\Users\sojoyenjoy\AppData\Local\Temporary Projects\Resto\obj\x86\Debug\Resto.Form1.resources
+D:\Users\sojoyenjoy\AppData\Local\Temporary Projects\Resto\obj\x86\Debug\Resto.Resources.resources
+D:\Users\sojoyenjoy\AppData\Local\Temporary Projects\Resto\obj\x86\Debug\Resto.vbproj.GenerateResource.Cache
+D:\Users\sojoyenjoy\AppData\Local\Temporary Projects\Resto\obj\x86\Debug\Resto.exe
+D:\Users\sojoyenjoy\AppData\Local\Temporary Projects\Resto\obj\x86\Debug\Resto.xml
+D:\Users\sojoyenjoy\AppData\Local\Temporary Projects\Resto\obj\x86\Debug\Resto.pdb
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\obj\x86\Debug\Resto.Form1.resources
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\obj\x86\Debug\Resto.Form2.resources
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\obj\x86\Debug\Resto.Form3.resources
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\obj\x86\Debug\Resto.vbproj.GenerateResource.Cache
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\bin\Debug\Resto.exe
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\bin\Debug\Resto.pdb
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\bin\Debug\Resto.xml
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\bin\Debug\MigraDoc.Rendering.dll
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\bin\Debug\MigraDoc.RtfRendering.dll
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\bin\Debug\MySql.Data.dll
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\bin\Debug\PdfSharp.Charting.dll
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\bin\Debug\PdfSharp.dll
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\obj\x86\Debug\Resto.Resources.resources
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\obj\x86\Debug\Resto.exe
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\obj\x86\Debug\Resto.xml
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\obj\x86\Debug\Resto.pdb
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\obj\x86\Debug\Resto.Form4.resources
+D:\Users\sojoyenjoy\Documents\Visual Studio 2010\Projects\Resto\Resto\Resto\obj\x86\Debug\Resto.vbprojResolveAssemblyReference.cache
